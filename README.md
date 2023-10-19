@@ -1,17 +1,17 @@
 
-
-<img src="https://imgur.io/t/writer/U73PhQV">
+##Technical Content Writer
+<img src="https://imgur.io/t/writer/U73PhQV" width="256"/>
 
 <h1 align="center">Hi 👋, I'm Perekosufa Obudah</h1>
 <h3 align="center">A prospective Technical Writer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Growing my technical writing skills**
+- 🔭 I’m currently working on **Becoming a Technical Writer**
 
-- 🌱 I’m currently learning **Technical writing with Zaycodes**
+- 🌱 I’m currently learning to so on the **Technical writing Cohort 2 with Zaycodes**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **API documentation, audience analysis**
+- 🤝 I’m looking for help with **API documentation, Audience Analysis, Content Structuring**
 
 - 💬 Ask me about **Content Writing, Introduction to Technical writing, types of documentation and technical writer skills**
 
