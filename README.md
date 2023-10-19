@@ -1,6 +1,6 @@
 
 ##Technical Content Writer
-<img src="https://imgur.io/t/writer/U73PhQV" width="256"/>
+<img src="https://github.com/Legendrix1/Legendrix1/blob/main/content-writing.gif" width="256"/>
 
 <h1 align="center">Hi 👋, I'm Perekosufa Obudah</h1>
 <h3 align="center">A prospective Technical Writer from Nigeria.</h3>
