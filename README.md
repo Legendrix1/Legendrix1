@@ -1,4 +1,4 @@
-<img src="https://github.com/Legendrix1/Legendrix1/blob/main/How-to-Become-a-Content-Writer.gif" />
+<img src="https://github.com/Legendrix1/Legendrix1/blob/main/How-to-Become-a-Content-Writer.gif" align="center" />
 
 <h1 align="center">Hi 👋, I'm Perekosufa Obudah</h1>
 <h3 align="center">A prospective Technical Writer from Nigeria.</h3>
